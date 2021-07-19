@@ -4,3 +4,5 @@
 let final;
 let kiun;
 let kiun2;
+let testing;
+let secondtest;
